@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+header{
+  text-align: center;
+    
+}
+
+p{
+  font-size: 2em;
+  margin: 1em 2em;
+}
+
+h2{
+  text-align: center;
+  font-size: 3em;
+}
+
+h4{
+  text-align: center;
+  font-size: 2em;
+  margin-top: -1px;
+}
+
+h5{
+  color: rgb(75, 75, 75);
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: -30px;
+}
+
+#pagetitle{
+  font-family: "Oswald";
+  font-size: 6em;
+}
+
+.promo{
+  color: black;
+  font-size: 4em;
+  margin-top: -1em;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+  
+.nbar {
+  color: black;
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.nbar:hover {
+  background-color: #ddd;
+}
+  
+a{
+  text-decoration: none;
+  color: black;
+}
+
+table{
+  margin: auto;
+}
+
+th{
+  font-size: 3em;
+  text-align: center;
+}
+
+td{
+  padding: 2em;
+}
+
+img:hover {
+  border: 1.2em solid rgb(114, 130, 141);
+}
+
+img{
+  width: 20em;
+  height: 20em;
+  border: 1.2em solid rgb(161, 159, 159);
+  border-radius: 25%;
+}
+
