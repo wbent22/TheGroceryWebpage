@@ -2,7 +2,7 @@
 
 header{
   text-align: center;
-    
+  margin-bottom: 4em;
 }
 
 p{
@@ -91,3 +91,28 @@ img{
   border-radius: 25%;
 }
 
+#foot{
+  background-color: rgb(128, 127, 127);
+  padding: 3em;
+}
+
+#confoot{
+  font-size: 1em;
+  text-align: left;
+}
+
+#copyr{
+  float: left;
+  margin-left: -1em;
+}
+
+ul{
+  list-style: none;
+  text-decoration: underline;
+  font-size: 1.2em;
+}
+
+li{
+  margin-top: 1em;
+  margin-bottom: .5em;
+}
